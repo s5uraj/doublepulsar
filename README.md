@@ -4,8 +4,8 @@ patched doublepulsar which supports all OS including Windows Embedded OS Doublep
 The Eternalblue doublepulsar project is already available on github. Just replace the Doublepulsar-1.3.1.exe in the deps folder in that project with this one and this shall work on all OS
 
 
-doublepulsar-master_protected.zip contains modified version of doublepulsar for embedded system.
-EternalBlur-DoublePulsar-Metasploit.zip  contains full setup without support of embedded system.
+doublepulsar-master_protected.zip             contains modified version of doublepulsar for embedded system.
+EternalBlur-DoublePulsar-Metasploit.zip       contains full setup without support of embedded system.
 
 
 Password : - DoublePulsar
