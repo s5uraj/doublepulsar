@@ -6,11 +6,11 @@ The Eternalblue doublepulsar project is already available on github. Just replac
 
 doublepulsar-master_protected.zip             <b> contains modified version of doublepulsar for embedded system.</b>
 
-EternalBlur-DoublePulsar-Metasploit.zip      <b> contains full setup without support of embedded system.</b>
+EternalBlue-DoublePulsar-Metasploit.zip      <b> contains full setup without support of embedded system.</b>
 
 
 Password : - DoublePulsar
 
 
 
-<b> Warning: do it at your risk , this file is for educational purpose only </b> 
+<b> Warning: use it at your risk , this file is for educational purpose only </b> 
